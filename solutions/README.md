@@ -1,4 +1,4 @@
-# Solutions
+# 🧐 Solutions
 
-## Completed
+## ✅ Completed
 - Leetcode 01 - Two Sum
