@@ -12,7 +12,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | ---------- | ---- | ---------------- |
   | Two Sum | [1_two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/1_two_sum.py) | |
 
-### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/data_structures)
+### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/ds)
 
   | Data Structures | Code |
   | --------------- | ---- |
