@@ -8,9 +8,9 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
 ### [Python Solutions](https://github.com/TeluguGameboy/leetcode/tree/master/solutions), YouTube Playlist
 
-  | Algorithms | Code | YouTube Tutorial |
-  | ---------- | ---- | ---------------- |
-  | [Two Sum](https://leetcode.com/problems/two-sum/) | [1_two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/1_two_sum.py) | |
+  | Number | Leetcode Problem | Code | YouTube Tutorial |
+  | ------ | ---------------- | ---- | ---------------- |
+  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [1_two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/1_two_sum.py) | |
 
 ### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/ds)
 
