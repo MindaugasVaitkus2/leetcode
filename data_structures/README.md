@@ -1,3 +1,3 @@
-# Supplementary Data Structures
+# Data Structures
 
 ## Coming soon...

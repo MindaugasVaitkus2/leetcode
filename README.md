@@ -6,13 +6,13 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
 ## 👌🏾 The Good Stuff (in progress)
 
-### Solutions in Python - [Repo](https://github.com/TeluguGameboy/leetcode/tree/master/solutions), Playlist
+### [Solutions in Python](https://github.com/TeluguGameboy/leetcode/tree/master/solutions)
 
-  | Algorithms | Code | Tutorial |
-  | ---------- | ---- | -------- |
+  | Algorithms | Code | YouTube Tutorial |
+  | ---------- | ---- | ---------------- |
   | Two Sum | [1_two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/1_two_sum.py) | |
 
-### Data Structures - [Repo](https://github.com/TeluguGameboy/leetcode/tree/master/data_structures)
+### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/data_structures)
 
   | Data Structures | Code |
   | --------------- | ---- |
