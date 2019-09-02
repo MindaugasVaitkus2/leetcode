@@ -6,7 +6,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
 ## 👌🏾 The Good Stuff (in progress)
 
-### [Python Solutions](https://github.com/TeluguGameboy/leetcode/tree/master/solutions)
+### [Python Solutions](https://github.com/TeluguGameboy/leetcode/tree/master/solutions), YouTube Playlist
 
   | Algorithms | Code | YouTube Tutorial |
   | ---------- | ---- | ---------------- |
