@@ -10,7 +10,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
   | Algorithms | Code | YouTube Tutorial |
   | ---------- | ---- | ---------------- |
-  | Two Sum | [1_two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/1_two_sum.py) | |
+  | [Two Sum](https://leetcode.com/problems/two-sum/) | [1_two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/1_two_sum.py) | |
 
 ### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/ds)
 
