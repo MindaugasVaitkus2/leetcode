@@ -1,3 +1,3 @@
-# 🔥 Data Structures
+# 🔥 Data Structures in Python
 
 ## 🙏🏾 Coming soon...
