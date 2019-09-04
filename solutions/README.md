@@ -1,4 +1,4 @@
 # 🐍 Python Solutions
 
 ## ✅ Completed Problems
-- 01 - Two Sum
+- Leetcode 01 - Two Sum

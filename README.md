@@ -10,7 +10,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
   | Leetcode Problem | Difficulty | Solution | YouTube Tutorial |
   | :--------------- | :--------- | :------- | :--------------- |
-  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/01/two_sum.py) | [Leetcode in Python #1: Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
+  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Leetcode in Python #1: Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
   | | | | |
 
 ### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/ds)
