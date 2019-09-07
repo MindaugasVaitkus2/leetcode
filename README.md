@@ -10,9 +10,9 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
   | Leetcode Problem | Difficulty | Solution | YouTube Tutorial |
   | :--------------- | :--------- | :------- | :--------------- |
-  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Leetcode in Python #1: Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
-  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_numbers.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_numbers/add_two_numbers.py) | Leetcode in Python #2: Add Two Numbers |
-  | 👆🏾 | Medium | [add_two_numbers_r.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_numbers_r/add_two_numbers_r.py) | Leetcode in Python #2: Add Two Numbers (Recursively) |
+  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
+  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_numbers.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_numbers/add_two_numbers.py) | Add Two Numbers |
+  | 👆🏾 | Medium | [add_two_numbers_r.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_numbers_r/add_two_numbers_r.py) | Add Two Numbers (Recursively) |
   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | | |
   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | | |
   | | | | |
