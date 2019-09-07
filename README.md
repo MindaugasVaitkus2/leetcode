@@ -14,7 +14,8 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_nums.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums.py), [add_two_nums_recursively.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums_recursively.py) | Iterative Approach, Recursive Approach |
   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | | |
   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | | |
-  | | | | |
+
+  <!-- | | | | | -->
 
 ## 🤫 My Stats as of 2019 - I ain't no prodigy
 - SWE in the Bay Area
