@@ -6,7 +6,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
 ## 👌🏾 The Good Stuff (in progress)
 
-###[YouTube Playlist](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)
+### [YouTube Playlist](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)
 
   | Leetcode Problem | Difficulty | Solution | YouTube Tutorial |
   | :--------------- | :--------- | :------- | :--------------- |
