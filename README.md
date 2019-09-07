@@ -1,4 +1,4 @@
-## 💯 Leetcode Solutions in Python
+# 💻 Leetcode Solutions in Python
 
 This repo contains the **coded solutions** (and any **supplementary material**) to my **Leetcode in Python** YouTube series. Check it out if you tryna dive deep into the realm of computer science. Some aspects of this repo may be elusive unless you watch the corresponding video - keep that in mind as you traverse through this archive.
 
