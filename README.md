@@ -1,10 +1,8 @@
 # 🆘 Leetcode Solutions in Python
 
-## 🤔 What's in this repo?
-
 This repo contains the **coded solutions** (and any **supplementary material**) to my **Leetcode in Python** YouTube series. Check it out if you tryna dive deep into the realm of computer science. Some aspects of this repo may be elusive unless you watch the corresponding video - keep that in mind as you traverse through this archive.
 
-## 🤩 The Good Stuff (in progress)
+# 👌🏾The Good Stuff (in progress)
 
 ### [YouTube Playlist](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)
 
@@ -17,7 +15,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
   <!-- | | | | | -->
 
-## 🤫 My Stats as of 2019 - I ain't no prodigy
+# 🤫 My Stats as of 2019 - I ain't no prodigy
 - SWE in the Bay Area
 - One year out of a tier 2 public college (top 50 in US News)
 - Majored in computer science (CS GPA: 3.83, GPA: 3.66)
