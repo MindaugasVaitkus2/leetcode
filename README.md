@@ -1,4 +1,4 @@
-# 💻 Leetcode in Python
+# 💻 Leetcode Solutions in Python
 
 ## ⁉️ What's in this repo?
 
