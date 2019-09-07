@@ -13,13 +13,6 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Leetcode in Python #1: Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
   | | | | |
 
-### [Data Structures](https://github.com/TeluguGameboy/leetcode/tree/master/ds)
-
-  | Data Structures | Code |
-  | :-------------- | :--- |
-  | Linked Lists    |      |
-
-
 ## 🤫 My Stats as of 2019 - I ain't no prodigy
 - SWE in the Bay Area
 - One year out of a tier 2 public college (top 50 in US News)

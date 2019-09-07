@@ -1,3 +1,0 @@
-# 🐍 Data Structures in Python
-
-## 🤞🏾 Coming soon...
