@@ -7,7 +7,7 @@ class ListNode(object):
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
 
-        # Declare pointers for traversal
+        # Declare pointers for traversal. Added for clarity.
         p1 = l1
         p2 = l2
 
@@ -57,16 +57,19 @@ def linked_list_str(l):
 
 print
 
+# Make first linked list.
 l1 = ListNode(2)
 l1.next = ListNode(4)
 l1.next.next = ListNode(3)
 print(linked_list_str(l1))
 
+# Make second linked list.
 l2 = ListNode(5)
 l2.next = ListNode(6)
 l2.next.next = ListNode(4)
 print(linked_list_str(l2))
 
+# Add linked lists.
 s = Solution()
 l3 = s.addTwoNumbers(l1, l2)
 print(linked_list_str(l3))
