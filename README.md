@@ -20,6 +20,8 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
   <!-- | | | | | -->
 
+## 📹 Video Format
+
 ## 🤫 My Stats as of 2019 - I ain't no prodigy
 - SWE in the Bay Area
 - One year out of a tier 2 public college (top 50 in US News)
