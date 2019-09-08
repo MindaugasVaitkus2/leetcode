@@ -11,8 +11,8 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
 ## 👌🏾The Good Stuff (in progress)
 
-  | Leetcode # | Problem | Difficulty | Solution | YouTube Tutorial |
-  | :--------- | :------ | :--------- | :------- | :--------------- |
+  | #  | Leetcode Problem | Difficulty | Solution | YouTube Tutorial |
+  | :- | :--------------- | :--------- | :------- | :--------------- |
   | 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
   | 02 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_nums.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums.py), [add_two_nums_recursively.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums_recursively.py) | Iterative Approach, Recursive Approach |
   | 03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | | |
