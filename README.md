@@ -7,7 +7,7 @@ Hello everyone! **"Leetcode in Python"** is a **[YouTube series](https://www.you
 
 ## ⁉️ What's in this repo?
 
-This repo contains the **coded solutions** (and any **supplementary material**) to my **[Leetcode in Python YouTube series](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)**. Check it out if you tryna dive deep into the realm of computer science. Some aspects of this repo may be elusive unless you watch the corresponding video - keep that in mind as you traverse through **[this archive](https://github.com/TeluguGameboy/leetcode/tree/master/solutions)**.
+This repo contains the **coded solutions** (and any **supplementary material**) to my **["Leetcode in Python" YouTube series](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)**. Check it out if you tryna dive deep into the realm of computer science. Some aspects of this repo may be elusive unless you watch the corresponding video - keep that in mind as you traverse through **[this archive](https://github.com/TeluguGameboy/leetcode/tree/master/solutions)**.
 
 ## 👌🏾The Good Stuff (in progress)
 
