@@ -21,6 +21,16 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   <!-- | | | | | -->
 
 ## 📹 Video Format
+0. Intro!
+1. Read the exact problem statement.
+2. Break down the problem into: given, find, and output.
+3. Show one or two examples.
+4. (?) Go over slow brute force solution.
+5. (?) Go over time/space complexity of brute force solution.
+6. Explain the theory behind the solution.
+7. Go over time/space complexity of the solution.
+8. Go over the python code.
+9. Go over example with code.
 
 ## 🤫 My Stats as of 2019 - I ain't no prodigy
 - SWE in the Bay Area
