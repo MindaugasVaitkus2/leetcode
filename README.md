@@ -11,8 +11,6 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
 
 ## 👌🏾The Good Stuff (in progress)
 
-### [YouTube Playlist](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)
-
   | Leetcode Problem | Difficulty | Solution | YouTube Tutorial |
   | :--------------- | :--------- | :------- | :--------------- |
   | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
