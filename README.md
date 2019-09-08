@@ -1,5 +1,8 @@
 # 🐍 Leetcode Solutions in Python
 
+## 📖 Description
+**Leetcode in Python** is a series where I explain all solutions to *popular* leetcode problems. Each video contains a **theoretical section** (where I explain the reasoning behind the most optimal solution) and a **practical section** (where I go over the Python solution). Solving these leetcode problems has helped me land interviews and job offers from numerous companies like (**Amazon** - *SWE offer*, **Goldman Sachs** - *SWE offer*, **Google** - *onsite*). This series is **aimed to help anyone who is trying to crack their technical coding interviews**!
+
 ## ⁉️ What's in this repo?
 
 This repo contains the **coded solutions** (and any **supplementary material**) to my **Leetcode in Python** YouTube series. Check it out if you tryna dive deep into the realm of computer science. Some aspects of this repo may be elusive unless you watch the corresponding video - keep that in mind as you traverse through this archive.
