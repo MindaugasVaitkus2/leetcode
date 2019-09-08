@@ -3,7 +3,7 @@
 ## 📖 Description
 Hello everyone! **"Leetcode in Python"** is a **[YouTube series](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7xuOoib_cLLEbkH0EeweLej)** where I explain all solutions to *popular* leetcode problems. Each video contains a **theoretical section** (where I explain the reasoning behind the most optimal solution) and a **practical section** (where I go over the Python solution). Solving these leetcode problems has helped me land interviews and job offers from numerous companies like **Amazon** (*SWE offer*), **Goldman Sachs** (*SWE offer*), and **Google** (*onsite + one colossal failure*). Stay tuned to learn how to crack (nearly) any coding interview!
 
-**TL;DR:** Leetcode in Python will be the one resource you need to get into **FAANG**; system design not included :P
+**TL;DR:** Leetcode in Python will be the one resource you need to get into **FAANG**. Warning: system design not included!
 
 ## ⁉️ What's in this repo?
 
