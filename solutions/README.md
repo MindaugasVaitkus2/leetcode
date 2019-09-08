@@ -1,5 +1,7 @@
 # 🐍 Python Solutions
 
 ## ✅ Completed Problems
-- Leetcode 01 - Two Sum
-- Leetcode 02 - Add Two Numbers (iteratively, and recursively)
+| Leetcode # | Problem | Folder | Misc. |
+| :--------- | :------ | :----- | :---- |
+| 01 | Two Sum | two_sum | |
+| 02 | Add Two Numbers | add_two_nums | iteratively + recursively |
