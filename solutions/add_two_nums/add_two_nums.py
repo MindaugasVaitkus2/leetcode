@@ -7,6 +7,9 @@ class ListNode(object):
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
 
+        print('')
+        print('inside function...')
+
         # Declare pointers for traversal. Added for clarity.
         p1 = l1
         p2 = l2
@@ -21,6 +24,8 @@ class Solution(object):
         # Iteration condition.
         while p1 or p2 or currentCarry:
 
+            print(p1.val, p2.val, currentCarry)
+
             # Determine current value and carry over.
             currentVal = currentCarry
             currentVal += 0 if p1 is None else p1.val
@@ -30,6 +35,8 @@ class Solution(object):
                 currentCarry = 1
             else:
                 currentCarry = 0
+
+            print(currentVal, currentCarry)
 
             # Add current value as it will always atleast be '1'.
             cur.next = ListNode(currentVal)
@@ -46,8 +53,14 @@ class Solution(object):
                 p1 = p1.next
                 p2 = p2.next
 
+        print('exiting...')
+        print('')
+
         # Return next node.
         return head.next
+
+
+
 
 # Recursively print linked list
 def linked_list_str(l):
