@@ -14,7 +14,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | #  | Leetcode Problem | Difficulty | Solution | YouTube Tutorial |
   | :- | :--------------- | :--------- | :------- | :--------------- |
   | 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
-  | 02 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_nums.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums.py), [add_two_nums_recursively.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums_recursively.py) | [Iterative Approach](https://www.youtube.com/watch?v=SbcCpAw_8Dg), Recursive Approach |
+  | 02 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_nums.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums.py), [add_two_nums_recursively.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums_recursively.py) | [Iterative Approach](https://www.youtube.com/watch?v=SbcCpAw_8Dg), [Recursive Approach](https://www.youtube.com/watch?v=G6X7Fn2IDPE) |
   | 03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | - | - |
   | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Skipped | Skipped |
   | 05 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | - | - |
