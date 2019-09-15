@@ -15,8 +15,8 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | :- | :--------------- | :--------- | :------- | :--------------- |
   | 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](https://github.com/TeluguGameboy/leetcode/tree/master/solutions/two_sum/two_sum.py) | [Two Sum](https://www.youtube.com/watch?v=pypLtNT8aNY) |
   | 02 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add_two_nums.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums.py), [add_two_nums_recursively.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/add_two_nums/add_two_nums_recursively.py) | [Iterative Approach](https://www.youtube.com/watch?v=SbcCpAw_8Dg), [Recursive Approach](https://www.youtube.com/watch?v=G6X7Fn2IDPE) |
-  | 03 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest_palindrome.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/longest_palindromic_substring/longest_palindrome.py) |
-  | 04 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parens.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/valid_parentheses/valid_parens.py) |
+  | 05 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest_palindrome.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/longest_palindromic_substring/longest_palindrome.py) |
+  | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parens.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/valid_parentheses/valid_parens.py) |
 
 ## 📹 Video Format
 0. Intro!
