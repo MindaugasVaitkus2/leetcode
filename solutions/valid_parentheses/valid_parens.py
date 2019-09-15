@@ -2,6 +2,7 @@ class Solution(object):
     def isValid(self, s):
         pastParens = []
         for i in range(len(s)):
+            # pastParens = ['{', '[', '(']
             if self.isOpenParen(s[i]):
                 pastParens.append(s[i])
             else:
