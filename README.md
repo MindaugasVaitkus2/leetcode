@@ -18,6 +18,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | 05 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest_palindrome.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/longest_palindromic_substring/longest_palindrome.py) | |
   | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/longest_common_prefix/longest_common_prefix.py) | |
   | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parens.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/valid_parentheses/valid_parens.py) | [Valid Parentheses](https://www.youtube.com/watch?v=hlbuyOgxHbs) |
+  | i62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [unique_paths.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/unique_paths/unique_paths.py) | Unique Paths |
 
 ## 📹 Video Format
 0. Intro!
