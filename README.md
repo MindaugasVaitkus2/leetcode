@@ -19,7 +19,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/longest_common_prefix/longest_common_prefix.py) | |
   | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parens.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/valid_parentheses/valid_parens.py) | [Valid Parentheses](https://www.youtube.com/watch?v=hlbuyOgxHbs) |
   | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [valid_parens.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/21/merge_two_lists.py) | [Merge Two Sorted Lists](https://www.youtube.com/watch?v=r3MAkVZkD0s) |
-  | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [unique_paths.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/unique_paths/unique_paths.py) | Unique Paths |
+  | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [unique_paths.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/unique_paths/unique_paths.py) | [Unique Paths](https://www.youtube.com/watch?v=RYpd5VzxlKQ) |
 
 ## 📹 Video Format
 0. Intro!
