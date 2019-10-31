@@ -21,7 +21,8 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [valid_parens.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/21/merge_two_lists.py) | [Merge Two Sorted Lists](https://www.youtube.com/watch?v=r3MAkVZkD0s) |
   | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [unique_paths.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/unique_paths/unique_paths.py) | [Unique Paths](https://www.youtube.com/watch?v=RYpd5VzxlKQ) |
   | 19 | [Remove N-th From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [remove_nth_node_from_end.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/19/remove_nth_node_from_end.py) | [Remove Nth Node From End of List](https://www.youtube.com/watch?v=tk6fo3Z-qkQ) |
-  | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [letter_combos.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/19/letter_combos.py) |  |
+  | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [letter_combos.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/19/letter_combos.py) | [Letter Combos](https://www.youtube.com/watch?v=s1TuIgs1gMs) |
+  | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/100/same_tree.py) |  |
 
 ## 📹 Video Format
 0. Intro!
