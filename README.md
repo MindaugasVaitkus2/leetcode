@@ -24,6 +24,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [letter_combos.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/19/letter_combos.py) | [Letter Combos](https://www.youtube.com/watch?v=s1TuIgs1gMs) |
   | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [validate_bst.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/98/validate_bst.py) |  |
   | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/100/same_tree.py) |  |
+  | 104 | [Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [max_depth_binary_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/104/max_depth_binary_tree.py) |  |
 
 ## 📹 Video Format
 0. Intro!
