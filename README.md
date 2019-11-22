@@ -25,6 +25,7 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [validate_bst.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/98/validate_bst.py) |  |
   | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/100/same_tree.py) |  |
   | 104 | [Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [max_depth_binary_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/104/max_depth_binary_tree.py) |  |
+  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [path_sum.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/112/path_sum.py) |  |
 
 ## 📹 Video Format
 0. Intro!
