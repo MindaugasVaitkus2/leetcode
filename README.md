@@ -26,10 +26,19 @@ This repo contains the **coded solutions** (and any **supplementary material**) 
   | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing_stairs.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/70/climbing_stairs.py) |  |
   | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [edit_distance.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/72/edit_distance.py) |  |
   | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [subsets.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/78/subsets.py) |  |
+  | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [word_search.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/79/word_search.py) |  |
+  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [binary_tree_inorder_traversal.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/94/binary_tree_inorder_traversal.py) |  |
   | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [validate_bst.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/98/validate_bst.py) |  |
   | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/100/same_tree.py) |  |
   | 104 | [Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [max_depth_binary_tree.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/104/max_depth_binary_tree.py) |  |
   | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [path_sum.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/112/path_sum.py) |  |
+  | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [valid_palindrome.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/125/valid_palindrome.py) |  |
+  | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [linked_list_cycle.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/141/linked_list_cycle.py) |  |
+  | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [min_stack.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/155/min_stack.py) |  |
+  | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [number_of_islands.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/200/number_of_islands.py) |  |
+  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [valid_anagram.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/242/valid_anagram.py) |  |
+  | 397 | [First Unique Character](https://leetcode.com/problems/first-unique-character/) | Easy | [first_unique_character.py](https://github.com/TeluguGameboy/lip/blob/master/solutions/397/first_unique_character.py) |  |
+
 
 ## 📹 Video Format
 0. Intro!
